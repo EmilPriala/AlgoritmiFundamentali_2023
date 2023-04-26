@@ -1,0 +1,10 @@
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\bin\Debug\RainbowSort.exe.config
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\bin\Debug\RainbowSort.exe
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\bin\Debug\RainbowSort.pdb
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.AssemblyReference.cache
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.Properties.Resources.resources
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.GenerateResource.cache
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.csproj.CoreCompileInputs.cache
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.exe
+C:\Users\Emil\OneDrive\Desktop\AlgoritmiFundamentali_2023\AlgoritmiFundamentali_2023-main\Algoritmi\RainbowSort\RainbowSort\obj\Debug\RainbowSort.pdb
